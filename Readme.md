@@ -4,6 +4,11 @@
 
 This project analyzes Hacker News posts to find patterns in engagement (points & comments).
 
+## 🧠 Note
+
+The Jupyter Notebook contains initial exploration (EDA).  
+The Python script (`hacker_news_analysis.py`) is a cleaned and extended version with additional visualizations and structured analysis.
+
 ## 🔍 Key Insights
 
 - Best time to post based on average points
